@@ -15,7 +15,7 @@ This is a MERN Stack based food ordering platform where users can:
 9.Update order status
 
 🚀 Live Demo
-https://food-delivery-frontend-52of.onrender.com
+Render:https://food-delivery-frontend-52of.onrender.com
 
 ✨ Features
 👤 User Features
